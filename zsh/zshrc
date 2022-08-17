@@ -1,0 +1,8 @@
+# requires some packages, install them with 
+# pacman -S zsh-syntax-highlighting zsh-autosuggestions zsh-history-substring-search
+
+source $HOME/.config/zsh/variables.zsh
+source $HOME/.config/zsh/aliases.zsh
+source $HOME/.config/zsh/plugins.zsh
+source $HOME/.config/zsh/options.zsh
+source $HOME/.config/zsh/theme.zsh
